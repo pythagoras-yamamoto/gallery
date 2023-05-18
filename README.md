@@ -1,5 +1,5 @@
 
-## 🔋 ⚡ Battery Packed template
+## Stack
 
 - 🖥 dev-env
 
